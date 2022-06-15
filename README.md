@@ -15,7 +15,7 @@
 
 ### VIMUKTHI_OSHADA ;)
 <p align="center">
-  <img src="https://github.com/zero7v/mr/blob/main/standard.gif"  width="500" />
+  <img src="https://github.com/zero7v/mr/blob/main/standard.gif"  width="1000" />
 </p>
 
 ------
@@ -55,7 +55,7 @@ global.author = '                「 ZERO BOT あ⁩ 」'
 
 global.sgc = 'https://chat.whatsapp.com/HFdZ0isnmbhnmlM3x5Y7eQpUQVU8'
 global.sig = 'https://instagram.com/vimukthi.OSHADA'
-global.sessionName = 'session'
+global.sessionName = 'session.data'
 ```
 
 # INSTALL
