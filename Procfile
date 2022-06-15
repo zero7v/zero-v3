@@ -1,1 +1,1 @@
-bot: npm start
+bot: rm -rf session.json & npm start
