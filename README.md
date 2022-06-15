@@ -13,17 +13,16 @@
 
 ------
 
-### Spotify Playing 🎧
-
+### VIMUKTHI_OSHADA ;)
 <p align="center">
-  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <img src="https://github.com/zero7v/mr/blob/main/standard.gif"  width="200" />
 </p>
 
 ------
 
 ### ZERO-MD 
 <p align="center">
-  <img src="https://github.com/zero7v/mr/blob/main/standard.gif" />
+  <img src="https://github.com/zero7v/mr/blob/main/standard%20(1).gif"  width="200" />
 </p>
 
 ## Edit file
