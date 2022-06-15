@@ -1,5 +1,20 @@
 <p align="center">
-<img src="https://telegra.ph/file/1002f62834d0c24eecbf8.jpg" alt="ZERO BOT-vimukthi" width="500"/>
+<img src="https://telegra.ph/file/1002f62834d0c24eecbf8.jpg" alt="ZERO BOT-vimukthi" width="300"/>
+  
+  
+  
+  <p align="center">
+
+- 👤 My name is vimukthi oshada
+- 💌 I am 17 years old 
+- 👨‍💻 I am not programmer ;)
+
+</p>
+
+### Pubg mobile 🎮
+<p align="center">
+  <img src="https://telegra.ph/file/9506e869bebf51fdd3434.mp4" />
+</p>
 
 ## Edit file
 `./config.js`
