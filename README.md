@@ -22,7 +22,7 @@
 
 ### ZERO-MD 
 <p align="center">
-  <img src="https://github.com/zero7v/mr/blob/main/standard%20(1).gif"  width="400" />
+  <img src="https://github.com/zero7v/mr/blob/main/standard%20(1).gif"  width="200" />
 </p>
 
 ## Edit file
