@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/1002f62834d0c24eecbf8.jpg" alt="ZERO BOT-vimukthi" width="100"/>
+<img src="https://telegra.ph/file/1002f62834d0c24eecbf8.jpg" alt="ZERO BOT-vimukthi" width="500"/>
 
 ## Edit file
 `./config.js`
@@ -34,7 +34,7 @@ global.sig = 'https://instagram.com/vimukthi.OSHADA'
 global.sessionName = 'session'
 ```
 
-# Instalasi
+# INSTALL
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
@@ -45,15 +45,15 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```ts
 apt update && apt upgrade
 pkg install bash
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
-cd Alphabot-Md
+git clone https://github.com/zero7v/zero-v3
+cd zero-v3
 bash install.sh
 ```
 
 
 
 
-# Requirements
+# Requirements FOR RDP
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
