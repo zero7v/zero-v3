@@ -11,9 +11,19 @@
 
 </p>
 
-### Pubg mobile 🎮
+------
+
+### Spotify Playing 🎧
+
 <p align="center">
-  <img src="https://telegra.ph/file/9506e869bebf51fdd3434.mp4" />
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+
+### ZERO-MD 
+<p align="center">
+  <img src="https://github.com/zero7v/mr/blob/main/standard.gif" />
 </p>
 
 ## Edit file
