@@ -15,14 +15,14 @@
 
 ### VIMUKTHI_OSHADA ;)
 <p align="center">
-  <img src="https://github.com/zero7v/mr/blob/main/standard.gif"  width="200" />
+  <img src="https://github.com/zero7v/mr/blob/main/standard.gif"  width="500" />
 </p>
 
 ------
 
 ### ZERO-MD 
 <p align="center">
-  <img src="https://github.com/zero7v/mr/blob/main/standard%20(1).gif"  width="200" />
+  <img src="https://github.com/zero7v/mr/blob/main/standard%20(1).gif"  width="400" />
 </p>
 
 ## Edit file
