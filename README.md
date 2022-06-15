@@ -25,6 +25,10 @@
   <img src="https://github.com/zero7v/mr/blob/main/standard%20(1).gif"  width="200" />
 </p>
 
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@vimukthioshada3/ZERO-MD?outputonly=1&lite=1#index.js)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?button-url=https://github.com/zero7v/zero-v3)
+
 ## Edit file
 `./config.js`
 ```global.owner = [
